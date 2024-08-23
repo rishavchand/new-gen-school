@@ -1,0 +1,104 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Agency Navigator",
+        "slug": "Agency-fundamentals",
+        "description": "Learn the basics of how to start an agency with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "Iman Gadzhi",
+        "isFeatured": true,
+        "image": "/images/agency.jpeg" 
+      },
+      {
+        "id": 2,
+        "title": "Advanced SEO Strategies",
+        "slug": "instagram-marketing",
+        "description": " Master the latest SEO techniques to optimize websites, boost rankings, and drive organic traffic. Learn advanced keyword research, on-page optimization, and link-building for a competitive edge.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/images/seo.jpeg" 
+      },
+      {
+        "id": 3,
+        "title": "Copy Writing",
+        "slug": "copy-writing",
+        "description": "Enhance your copy writing skills for beginner to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/images/cpw.jpeg" 
+      },
+      {
+        "id": 4,
+        "title": "Mastering PPC Campaigns",
+        "slug": "drumming-mastery",
+        "description": "Learn the ins and outs of PPC advertising, from setting up campaigns to optimizing ads for maximum ROI. This course covers Google Ads, Bing Ads, and social media platforms.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/images/ppc.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "E-Commerce Success Blueprint",
+        "slug": "jazz-improvisation",
+        "description": "Build and grow a successful online store. Learn to choose the right products, set up your store, and implement strategies to drive sales and retain customers.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/images/ecommerce.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Email Marketing",
+        "slug": "email-marketing",
+        "description": "Dive into the Email marketing with this introductory course on the basics of Email marketing.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/images/emailmarketing.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Conversion Rate Optimization Masterclass",
+        "slug": "songwriting-essentials",
+        "description": "Boost your website's effectiveness by converting visitors into customers. Learn A/B testing, user experience strategies, and data-driven CRO techniques.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/images/cro.jpeg"
+      },
+      {
+        "id": 8,
+        "title": "SMMA",
+        "slug": "social-media-marketing",
+        "description": "Create compelling contents to market and promote the clients business on social media",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/images/smma.jpeg"
+      },
+      {
+        "id": 9,
+        "title": "Personal Branding for Professionals",
+        "slug": "classical-music-history",
+        "description": "Craft a compelling personal brand, build an online presence, and leverage social media to enhance your professional reputation. Perfect for entrepreneurs and professionals.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/images/pb.jpeg"
+      },
+      {
+        "id": 10,
+        "title": "Sales",
+        "slug": "sale-rep",
+        "description": "Discover the techniques of sales to boom the sales of an organisation.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/images/sales.jpeg"
+      }
+    ]
+  }
